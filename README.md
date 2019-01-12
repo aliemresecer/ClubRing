@@ -1,1 +1,1 @@
-# Loyalty-QR
+# Club Ring QR Generator
